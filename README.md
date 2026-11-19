@@ -1,4 +1,4 @@
-# World, in Six Signals
+# The Day in World News
 
 [![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 [![rank](https://make.fun/badge/news-image-20261118/anhminhso14/makefun-news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
@@ -14,7 +14,7 @@ The artwork is stored in `entry.png`; `main.ts` checks its PNG header, size and 
 node main.ts
 ```
 
-The image summarizes six reported events from 18 November 2026. Its source line names AP, Reuters, Xinhua / Gov.cn, Japan MOFA and Australia's DISR.
+The image is an illustrated one-page briefing of 23 reports from 18 November 2026. It leads with the APEC talks in Shenzhen, then uses three medium and eight small story panels, with a short wire brief for the remaining reports. Sources appear with the relevant stories.
 
 Bounty details: https://make.fun/bounty/news-image-20261118
 
